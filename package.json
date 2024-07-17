@@ -1,0 +1,13 @@
+{
+    "name": "rnnda-github-io",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "react-scripts build && mkdir -p public && cp -r build/* public"
+    },
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      
+    }
+  }
